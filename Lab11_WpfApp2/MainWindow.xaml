@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lab11_WpfApp2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="600">
+        Title="MainWindow" Height="600" Width="600" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid Margin="198.333,46,136.536,183.864">
             <Path Data="M284.41667,220.333 C299.76996,230.0391 320.50415,244.75208 338,253.5 344.92035,256.96018 350.19383,261.36878 357.5,264.5 365.09767,267.75615 373.77535,269.32505 382,270.5 403.37864,273.55409 425.08751,275.94107 446.5,279 474.06599,282.938 501.68242,285.53317 529,290.5 541.59997,292.7909 555.38145,291.0464 567,296.5 573.125,299.375 577.25,301.875 583.5,305 595.91219,311.2061 605.12838,313.45032&#xA;617.5,320 623.875,323.375 631.66667,327.5 635,331.5 637.78416,334.84099 640.75939,338.45059 643.5,341.5" HorizontalAlignment="Left" Height="88.517" Stretch="Fill" Stroke="#FF12BB48" VerticalAlignment="Top" Width="232.179" StrokeThickness="3" Margin="24.952,180.731,0,0" RenderTransformOrigin="0.5,0.5">
